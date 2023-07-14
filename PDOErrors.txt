@@ -1,0 +1,5 @@
+2021-10-06 17:08:30 [ERROR]: SQLSTATE[HY000] [1045] Access denied for user 'focus_db'@'localhost' (using password: YES)
+2021-10-06 17:09:07 [ERROR]: SQLSTATE[HY000] [1045] Access denied for user 'focus_db'@'localhost' (using password: YES)
+2021-10-06 17:09:08 [ERROR]: SQLSTATE[HY000] [1045] Access denied for user 'focus_db'@'localhost' (using password: YES)
+2021-10-06 17:09:09 [ERROR]: SQLSTATE[HY000] [1045] Access denied for user 'focus_db'@'localhost' (using password: YES)
+
